@@ -14,4 +14,4 @@ This is a simple React-based typing speed tester.
 - CSS
 
 ## Author
-Srijit Koirala
+Rohan Khadka
